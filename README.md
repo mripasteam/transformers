@@ -7,6 +7,8 @@ Author for correspondence:
 Marcin Churski
 email: mchurski@ibs.bialowieza.pl
 
+DOI 10.5281/zenodo.12672556
+
 <sup>1</sup>Mammal Research Institute Polish Academy of Sciences, ul. Stoczek 1, 17-230 Białowieża; <sup>2</sup>University of Cape Town, HW Pearson Building, University Ave N, Rondebosch, Cape Town, 7701; <sup>3</sup>SLU, Department of Wildlife, Fish and Environmental Studies, 901 83 Umeå, Sweden; <sup>4</sup>Centre for African Conservation Ecology, Department of Zoology, Nelson Mandela University, PO Box 77000, Gqeberha, 6031, South Africa; <sup>5</sup>Institute for Atmospheric and Earth System Research/Physics, Faculty of Science, University of Helsinki, Helsinki, Finland; <sup>6</sup>AMAP, University of Montpellier, CIRAD, CNRS, INRAE, IRD, Montpellier, France; <sup>7</sup>CNRS UMR7618; Sorbonne University; Institute of Ecology and Environmental Sciences Paris; 4, place Jussieu 75005 PARIS
 
 #### Summary
